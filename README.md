@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Aditi-Bornare/Aditi-Bornare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github.com/Aditi-Bornare/Aditi-Bornare/blob/4b3b86bd8befb4f9cf330dea63b7ec4fe9e53236/requisites/Banner.gif">
