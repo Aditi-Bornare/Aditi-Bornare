@@ -78,6 +78,7 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 <a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)</a>
 <a href="https://scikit-learn.org/stable/"> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)</a>
 <a href="https://www.blogger.com/about/?bpli=1"> ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="https://www.canva.com/"> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)</a>
 
 <br><h2>📃 Summary</h2>
 
