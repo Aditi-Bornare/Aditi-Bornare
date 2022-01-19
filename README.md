@@ -24,7 +24,7 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 
 &emsp; 💻 I have a book in my heart, a story in my head, and a computer on my desk.
 
-&emsp; ✨ You can check out my first work <a href="https://stories0verloaded.blogspot.com/">here</a>.
+&emsp; ✨ You can check out my first work <a href="https://stories0verloaded.blogspot.com/" target="_blank">here</a>.
 
 <h2>My Tech Stack</h2>
 
