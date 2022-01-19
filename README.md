@@ -73,7 +73,10 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 <a href="https://www.javatpoint.com/java-jdbc">![JDBC](https://img.shields.io/badge/-jdbc-000000?style=for-the-badge&logo=jdbc&logoColor=white)</a>
 <a href="https://www.w3schools.com/python/python_mysql_getstarted.asp">![PDBC](https://img.shields.io/badge/-pdbc-000000?style=for-the-badge&logo=pdbc&logoColor=white)</a>
 <a href="https://github.com/">![Github](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-
+<a href="https://jupyter.org/"> ![Jupyter](https://img.shields.io/badge/-jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)</a>
+<a href="https://numpy.org/"> ![NumPy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)</a>
+<a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)</a>
+<a href="https://scikit-learn.org/stable/"> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)</a>
 
 <br><h2>📃 Summary</h2>
 
