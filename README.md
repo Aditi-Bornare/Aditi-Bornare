@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github.com/Aditi-Bornare/Aditi-Bornare/blob/4b3b86bd8befb4f9cf330dea63b7ec4fe9e53236/requisites/Banner.gif">
 
-<h2>About Me</h2>
+<h2>👩‍💻 About Me</h2>
 
 I am Aditi Bornare, a programmer who likes to write. I know, weird combination. But I enjoy it either way :)
 
@@ -26,7 +26,7 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 
 &emsp; ✨ You can check out my first work <a href="https://stories0verloaded.blogspot.com/">here</a>.
 
-<h2>My Tech Stack</h2>
+<h2>🛠 My Tech Stack</h2>
 
 <a href="https://www.programiz.com/c-programming">![C language](https://img.shields.io/badge/-c%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)</a>&nbsp;
 <a href="https://www.w3schools.com/CPP/default.asp">![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)</a>&nbsp;
