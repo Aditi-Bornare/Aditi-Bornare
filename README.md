@@ -12,21 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
-</head>
-
 <img src="https://github.com/Aditi-Bornare/Aditi-Bornare/blob/4b3b86bd8befb4f9cf330dea63b7ec4fe9e53236/requisites/Banner.gif">
 
 <h2>About Me</h2>
-<p style="font-family: 'Roboto Slab', serif;">
-I am Aditi Bornare, a programmer who likes to write. I know, weird combination. But I enjoy it either way.
-I'm a curious soul. On a daily basis, I discover multiple ways of how not to do something.
-I love reading, I have a book in my heart, a story in my head, and a computer on my desk.
-You can check out my first work <a href="https://stories0verloaded.blogspot.com/">here</a>.
-</p>
+
+I am Aditi Bornare, a programmer who likes to write. I know, weird combination. But I enjoy it either way :)
+
+&emsp; ✨ I'm a curious soul. On a daily basis, I discover multiple ways of how not to do something.
+
+&emsp; 📚 I love reading.
+
+&emsp; 💻 I have a book in my heart, a story in my head, and a computer on my desk.
+
+&emsp; ✨ You can check out my first work <a href="https://stories0verloaded.blogspot.com/">here</a>.
+
 <h2>My Tech Stack</h2>
 
 <a href="https://www.programiz.com/c-programming">![C language](https://img.shields.io/badge/-c%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)</a>&nbsp;
