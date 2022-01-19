@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 <h2>My Tech Stack</h2>
+
 <a href="https://www.programiz.com/c-programming">![C language](https://img.shields.io/badge/-c%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)</a>&nbsp;
 <a href="https://www.w3schools.com/CPP/default.asp">![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)</a>&nbsp;
 <a href="https://www.java.com/en/">![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)</a>&nbsp;
