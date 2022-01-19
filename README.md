@@ -50,3 +50,10 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 <a href="https://hibernate.org/">![Hibernate](https://img.shields.io/badge/-hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)</a>&nbsp;
 
 <a href="https://www.postman.com/">![Postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a>&nbsp;
+
+<h2>📄 Summary</h2>
+
+
+[![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
