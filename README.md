@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 <img src="https://github.com/Aditi-Bornare/Aditi-Bornare/blob/4b3b86bd8befb4f9cf330dea63b7ec4fe9e53236/requisites/Banner.gif">
 
-<h2>👩‍💻 About Me</h2>
+
+<br><h2>👩‍💻 About Me</h2>
 
 I am Aditi Bornare, a programmer who likes to write. I know, weird combination. But I enjoy it either way :)
 
@@ -26,7 +28,8 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 
 &emsp; ✨ You can check out my first work <a href="https://stories0verloaded.blogspot.com/">here</a>.
 
-<h2>🛠 My Tech Stack</h2>
+
+<br><h2>🛠 My Tech Stack</h2>
 
 <a href="https://www.programiz.com/c-programming">![C language](https://img.shields.io/badge/-c%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/CPP/default.asp">![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)</a>
@@ -65,8 +68,14 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 <a href="https://www.linux.org/">![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a>
 <a href="https://www.kali.org/">![Kali Linux](https://img.shields.io/badge/-kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)</a>
 <a href="https://www.tableau.com/">![Tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)</a>
+<a href="https://www.wireshark.org/">![Wireshark](https://img.shields.io/badge/-wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)</a>
+<a href="https://www.netacad.com/courses/packet-tracer">![Packet Tracer](https://img.shields.io/badge/-packet%20tracer-000000?style=for-the-badge&logo=packettracer&logoColor=white)</a>
+<a href="https://www.javatpoint.com/java-jdbc">![JDBC](https://img.shields.io/badge/-jdbc-000000?style=for-the-badge&logo=jdbc&logoColor=white)</a>
+<a href="https://www.w3schools.com/python/python_mysql_getstarted.asp">![PDBC](https://img.shields.io/badge/-pdbc-000000?style=for-the-badge&logo=pdbc&logoColor=white)</a>
+<a href="https://github.com/">![Github](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
-<h2>📄 Summary</h2>
+
+<br><h2>📃 Summary</h2>
 
 
 [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
