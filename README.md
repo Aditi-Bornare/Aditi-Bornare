@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Aditi-Bornare/Aditi-Bornare/blob/4b3b86bd8befb4f9cf330dea63b7ec4fe9e53236/requisites/Banner.gif">
 
 
-<br><h2>👩‍💻 About Me</h2>
+<br><h2>👩‍💻 About me</h2>
 
 I am Aditi Bornare, a programmer who likes to write. I know, weird combination. But I enjoy it either way :)
 
@@ -29,7 +29,7 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 &emsp; ✨ You can check out my first work <a href="https://stories0verloaded.blogspot.com/">here</a>.
 
 
-<br><h2>🛠 My Tech Stack</h2>
+<br><h2>🛠 Tech Stack</h2>
 
 <a href="https://www.programiz.com/c-programming">![C language](https://img.shields.io/badge/-c%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/CPP/default.asp">![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)</a>
@@ -80,10 +80,18 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 <a href="https://www.blogger.com/about/?bpli=1"> ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 <a href="https://www.canva.com/"> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)</a>
 
-<br><h2>📃 Summary</h2>
+<br><h2>💹 Summary</h2>
 
 
 [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Bornare&theme=github-dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
+<br><h2>📧 Connect with me</h2>
+
+<a href="mailto:aditi.bornare@cumminscollege.in">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/aditibornare/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/aditi.bornare/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.facebook.com/aditi.bornare/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://discordapp.com/users/9073/">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
