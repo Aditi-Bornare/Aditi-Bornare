@@ -86,8 +86,12 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditi-Bornare/Aditi-Bornare/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Bornare&theme=github-dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
+<!--
+![Graph](https://activity-graph.herokuapp.com/graph?username=Aditi-Bornare&theme=gotham)
+-->
 <br><h2>📧 Connect with me</h2>
 
 <a href="mailto:aditi.bornare@cumminscollege.in">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -95,3 +99,6 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 <a href="https://www.instagram.com/aditi.bornare/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/aditi.bornare/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://discordapp.com/users/9073/">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
+
+
+
