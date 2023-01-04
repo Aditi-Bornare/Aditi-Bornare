@@ -89,8 +89,10 @@ I am Aditi Bornare, a programmer who likes to write. I know, weird combination. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Bornare&theme=github-dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
-<!-- 
-![Aditi's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-Bornare&theme=github-compact) -->
+<!--
+![Aditi's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-Bornare&theme=github-compact)
+![Aditi's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-Bornare&bg_color=0a0a0a&color=7afffd&line=000000&point=000000&area=true&hide_border=true)
+-->
 
 <br><h2>📧 Connect with me</h2>
 
